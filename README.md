@@ -12,6 +12,11 @@ This implementation assumes the use of one of two generation models at the user'
 
 The user must provide a `string of text` to create images based on this string and `select a model` to generate
 
+Inputs:
+
+* `metod`: image_generation
+* `input_data`: a string containing the text for generation
+
 ## Expected result
 
 > Text: koala holding an orange
