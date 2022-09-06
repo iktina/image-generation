@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package translate;
+package image_generation;
 
 message Text {
     string sentence = 1;
