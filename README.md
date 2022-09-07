@@ -12,12 +12,14 @@ This implementation assumes the use of one of two generation models at the user'
 
 The user must provide a `string of text` to create images based on this string and `select a model` to generate
 
-The perimeter `type` is responsible for choosing the model. If this parameter is active (1), then the model `Min-Dalle` will work, if this parameter is not active (0), then the model `Stable Diffusion` will work.
+The parameter `type` is responsible for choosing the model. If this parameter is active (1), then the model `Min-Dalle` will be used, if this parameter is not active (0), then the model `Stable Diffusion` will be used.
 
 Inputs:
 
 * `metod`: image_generation
-* `input_data`: a string containing the text for generation
+* `input_data`: 
+  * a string containing the text for generation
+  * binary variable `type` to activate a particular model
 
 ## Expected result
 
