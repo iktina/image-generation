@@ -21,12 +21,12 @@ Inputs:
 
 ## Expected result
 
-> Text: koala holding an orange
+> Text: rainy sunset
 
 `Min-Dalle`
 
-[![imageban](https://i3.imageban.ru/out/2022/09/05/89621a4e2d4b15d9efcb4bc23284481e.png)](https://imageban.ru) [![imageban](https://i2.imageban.ru/out/2022/09/05/0540e42402c1b2b1ec60a2aa49a585a4.png)](https://imageban.ru) [![imageban](https://i4.imageban.ru/out/2022/09/05/2c56d99b5e99ab7ff9797e95828c91c2.png)](https://imageban.ru)
+[![imageban](https://i5.imageban.ru/out/2022/09/07/3b42e780f2787036122ab687d2bc9106.png)](https://imageban.ru) [![imageban](https://i4.imageban.ru/out/2022/09/07/fcc831f0238e3dbc2bf4c25e9214f7a0.png)](https://imageban.ru) [![imageban](https://i4.imageban.ru/out/2022/09/07/4ce30a90387f4b5ef6ddb5e7ad662c4a.png)](https://imageban.ru)
 
 `Stable Diffusion`
 
-<img src="https://i1.imageban.ru/out/2022/09/05/55af50eaa68e0ea2063878dc40469bc3.png" width="250" />  <img src="https://i6.imageban.ru/out/2022/09/05/47cb78e8caad76dedae14e0b822029c1.png" width="250" /> <img src="https://i1.imageban.ru/out/2022/09/05/0846425d1036846642ddf16b171c14fe.png" width="250" />
+<img src="https://i3.imageban.ru/out/2022/09/07/8050ff464d2c1bb8cad7682d1a21c266.png" width="255" />  <img src="https://i2.imageban.ru/out/2022/09/07/c0dd88ad1ef05e129feb12550cb5d327.png" width="255" /> <img src="https://i5.imageban.ru/out/2022/09/07/4937a8ceb9dfde8810745d5505205b82.png" width="255" />
